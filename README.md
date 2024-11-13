@@ -9,4 +9,5 @@ This repository contains Write-Ups for various Cyber Defender Blue Team Labs. Mo
 | -------- | ---------- | ------------ |
 | KrakenKeyLogger | Medium | [here](./KrakenKeylogger-CyberDefender-WU/README.md) |
 | PsExec | Easy | [here](./PsExec-CyberDefender-Wu/) |
+| TheCrime | Easy | [here](./TheCrime-CyberDefender-WU/) |
 
