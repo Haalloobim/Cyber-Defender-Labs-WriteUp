@@ -6,7 +6,9 @@
 1. Scenario:
 Our Intrusion Detection System (IDS) has raised an alert, indicating suspicious lateral movement activity involving the use of PsExec. To effectively respond to this incident, your role as a SOC Analyst is to analyze the captured network traffic stored in a PCAP file.
 
-2. Tools :
+2. Difficulty: Easy
+
+3. Tools :
 - [WireShark](https://www.wireshark.org/)
 
 ## How to solve? 

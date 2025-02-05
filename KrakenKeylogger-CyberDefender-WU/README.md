@@ -5,7 +5,10 @@
 ## Description 
 1. Scenario: 
 An employee at a large company was assigned a task with a two-day deadline. Realizing that he could not complete the task in that timeframe, he sought help from someone else. After one day, he received a notification from that person who informed him that he had managed to finish the assignment and sent it to the employee as a test. However, the person also sent a message to the employee stating that if he wanted the completed assignment, he would have to pay $160. The helper's demand for payment revealed that he was actually a threat actor. The company's digital forensics team was called in to investigate and identify the attacker, determine the extent of the attack, and assess potential data breaches. The team must analyze the employee's computer and communication logs to prevent similar attacks in the future.<br /><br />
-2. Tools :
+
+2. Difficulty: Medium
+
+3. Tools :
 - [DB Browser](https://sqlitebrowser.org/)
 - [LECmd](https://ericzimmerman.github.io/#!index.md)
 - [Timeline Explorer](https://ericzimmerman.github.io/#!index.md)
