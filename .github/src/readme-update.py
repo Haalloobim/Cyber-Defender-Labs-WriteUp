@@ -18,7 +18,7 @@ def extractWriteUpDetail(WriteUpDir):
         return title, difficulty
     
 def updateReadme():
-    header = """# Cyber Defender Blue Team Labs WriteUp
+    header = f"""# Cyber Defender Blue Team Labs WriteUp
 
 ## Author: {AUTHOR}
 
