@@ -9,6 +9,6 @@ This repository contains Write-Ups for various Cyber Defender Blue Team Labs. Mo
 
 | Lab Name | Difficulty | Writeup Link | Last Modified |
 | -------- | ------------ | ------------ | ------------- |
-| The Crime | Easy | [here](./TheCrime-CyberDefender-WU) | 2025-02-06 02:17:36 |
-| PsExec | Easy | [here](./PsExec-CyberDefender-Wu) | 2025-02-06 02:17:36 |
-| KrakenKeylogger | Medium | [here](./KrakenKeylogger-CyberDefender-WU) | 2025-02-06 02:17:36 |
+| The Crime | Easy | [here](./TheCrime-CyberDefender-WU) | 2025-02-06 02:18:48 |
+| PsExec | Easy | [here](./PsExec-CyberDefender-Wu) | 2025-02-06 02:18:48 |
+| KrakenKeylogger | Medium | [here](./KrakenKeylogger-CyberDefender-WU) | 2025-02-06 02:18:48 |
